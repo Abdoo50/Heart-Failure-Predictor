@@ -1,4 +1,5 @@
 # Heart-Failure-Predictor
+Heart failure is a common event caused by CVDs and this dataset contains 12 features that can be used to predict mortality by heart failure.
 ## Data Science Full Project 
 I have made in this Project:
 - data cleaning
